@@ -1,0 +1,29 @@
+# Programador-ISPC-2022
+Repositorio Programador ISPC 2022
+
+Conceptos de SCRUM
+
+¿Qué son las ceremonias en SCRUM?
+Una ceremonia ágil es un evento de un proceso ágil en el que el equipo se reúne para hablar sobre cuáles son los próximos pasos a seguir. Es una forma elegante de describir una reunión normal durante un proceso ágil. El objetivo principal de la ceremonia ágil es mejorar las comunicaciones dentro del equipo que trabaja con metodologías ágiles, incluido Scrum, para garantizar que todos estén alineados. Por lo general, a este tipo de ceremonias las organizan los Product Owners (propietarios del producto) o Scrum Masters.
+Ceremonias que se realizan a lo largo del proyecto:
+- Sprint Planning Meeting: (reunión de planificación del sprint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+- Daily Scrum Meeting:  (reunión periódica). Se produce diariamente, y tiene un máximo de 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+- Sprint Review Meeting:  (reunión de revisión del Sprint). Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner.
+- Sprint Retrospective Meeting: (reunión de retrospectiva del Sprint). Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+
+¿Qué son los artefactos?
+En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son: 
+- Product Backlog:  es un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto: requerimientos, casos de uso, tareas y dependencias. Es la principal fuente de información sobre el producto en Scrum, una lista, en cualquier formato, que contiene todos los requerimientos que necesitamos implementar en el producto. Esta lista es el resultado del trabajo del Product Owner con el cliente, los distintos stakeholders, sponsors, comités, etc, y refleja el estado real del trabajo pendiente de implementar en el producto, así como el ya realizado. 
+El Product Backlog debe ser gestionado en exclusiva por el Product Owner, siendo su principal función la de priorizar aquellos elementos que tienen más valor en cada etapa y detallarlos para que el equipo de desarrollo sea capaz de valorarlos y ejecutarlos.
+- Sprint Backlog: Se trata de una lista de elementos en los que trabajar durante la etapa de Sprint. Estos elementos normalmente se componen de tareas técnicas más pequeñas que permiten conseguir un incremento de software terminado.
+Todo el trabajo que el Development Team haya seleccionado para hacer durante el siguiente Sprint pasa al Sprint Backlog. Este artefacto es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo. Su propósito es mantener la transparencia dentro del desarrollo, actualizándolo durante toda la iteración especialmente a través de los daily Scrums.
+- Incremento: es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
+
+
+¿Qué son los roles?
+Un equipo Scrum suele estar compuesto por grupos de trabajo de entre 3 a 9 miembros del equipo de desarrollo, más el Scrum Master y el Product Owner. Cada uno de estos roles tiene diferentes responsabilidades y debe de rendir cuentas de distinta manera, tanto entre ellos como para el resto de la organización. La suma de todos los roles es lo que llamamos Equipo Scrum.
+Asignar roles del equipo Scrum es de suma importancia, ya que es necesario definir las tareas concretas para cada integrante. De esta forma, se tendrá mayor organización y eficiencia, alcanzando los resultados esperados para un equipo de alto rendimiento. 
+Dentro de la metodología, los roles de Scrum cumplen un papel importante durante el proceso del desarrollo del producto. Al asignar adecuadamente las categorías de roles de Scrum, cada integrante del equipo tendrá pleno conocimiento de las tareas que tiene que realizar para alcanzar las metas del área, y así brindarle un buen producto final al cliente. 
+- Scrum Master: es el responsable de lograr la efectividad de todos los roles del equipo Scrum, apoyando a cada uno de sus integrantes en la mejora de sus prácticas. Además, se le reconoce como un líder que se encuentra a disposición de los demás. Además de ser el líder del equipo, el Scrum Master también es el encargado de eliminar cualquier obstáculo que se interponga en la consecución de los objetivos. Este rol de Scrum da servicio al Product Owner, al equipo de desarrollo y a la organización en general.
+- Product Owner: es un facilitador e inspirador que motiva al equipo de Scrum a enfocarse en un objetivo de negocio maximizando con ello el trabajo del equipo y el valor de la organización.
+- Scrum Developers: son los profesionales encargados de entregar los productos de acuerdo a los estándares establecidos. Los Scrum Developers son equipos muy estructurados que tienen la autoridad para organizar y gestionar su trabajo, así como para tomar sus propias decisiones. De este modo, ni el Scrum Master o el Product Owner pueden darles instrucciones sobre qué hacer. Esto ocurre con el fin de potenciar su eficiencia y de conseguir mejores resultados en menos tiempo.
